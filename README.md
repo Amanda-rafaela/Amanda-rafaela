@@ -2,7 +2,7 @@
 
 Meu nome é Amanda Rafaela 
 
-- Estou,estudando na [Alura](https://www.alura.com.br)
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo em linguagem Javascript 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
